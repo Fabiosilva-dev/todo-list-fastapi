@@ -20,4 +20,4 @@ app = FastAPI(
 app.include_router(router)
 
 
-#python -m pip freeze > requirements.txt
+
